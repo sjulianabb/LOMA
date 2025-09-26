@@ -7,4 +7,14 @@
   "est_correcte": true,
   "justification_breve": "Le terme « assurance vie individuelle » montre qu’il s’agit d’une seule personne physique, donc c’est un client individuel et non une organisation."
 }
+{
+  "module": "Module 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client individuel ou d’un client organisationnel.",
+  "question_numero": 2,
+  "question": "Une compagnie qui achète une assurance pour couvrir ses employés",
+  "reponse_etudiant": "Client organisationnel",
+  "est_correcte": true,
+  "justification_breve": "Une compagnie est un groupe. Quand elle achète une assurance pour ses employés, c’est un contrat collectif et donc un client organisationnel."
+}
 
