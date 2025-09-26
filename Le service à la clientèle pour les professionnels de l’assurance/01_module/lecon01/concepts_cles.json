@@ -36,4 +36,37 @@
     "Le mot 'individuelle' correspond toujours à une seule personne."
   ]
 }
+{
+  "concepts_cles": [
+    { 
+      "terme": "Client organisationnel", 
+      "definition_simple": "C’est une entreprise ou un groupe qui achète une assurance pour protéger beaucoup de personnes en même temps.", 
+      "exemple": "Une école paie une assurance santé pour tous ses professeurs." 
+    },
+    { 
+      "terme": "Contrat collectif", 
+      "definition_simple": "C’est un seul papier d’assurance qui protège plusieurs personnes en même temps.", 
+      "exemple": "Une compagnie prend un contrat collectif pour 200 employés." 
+    },
+    { 
+      "terme": "Employés", 
+      "definition_simple": "Ce sont les personnes qui travaillent pour une entreprise.", 
+      "exemple": "Les employés d’un magasin reçoivent une assurance santé de leur patron." 
+    },
+    { 
+      "terme": "Client individuel", 
+      "definition_simple": "C’est une seule personne qui achète une assurance juste pour elle.", 
+      "exemple": "Paul achète une assurance vie seulement pour lui." 
+    }
+  ],
+  "mots_cles": ["compagnie", "organisationnel", "contrat collectif", "employés"],
+  "erreurs_communes": [
+    "Croire qu’une compagnie est comme une seule personne.",
+    "Penser que chaque employé est le client principal alors que c’est l’entreprise."
+  ],
+  "pistes_exclusion": [
+    "Si tu lis le mot 'compagnie', pense à organisationnel.",
+    "Si l’assurance protège plusieurs employés, ce n’est pas individuel."
+  ]
+}
 
