@@ -1,1 +1,39 @@
+{
+  "concepts_cles": [
+    { 
+      "terme": "Assurance vie individuelle", 
+      "definition_simple": "Promesse d’argent de l’assurance pour protéger une seule personne si elle meurt.", 
+      "exemple": "Papa a pris une assurance vie juste pour lui." 
+    },
+    { 
+      "terme": "Client individuel", 
+      "definition_simple": "Une personne seule qui achète quelque chose.", 
+      "exemple": "Toi, quand tu achètes une glace à la boutique." 
+    },
+    { 
+      "terme": "Client organisationnel", 
+      "definition_simple": "Un groupe ou une entreprise qui achète pour plusieurs personnes.", 
+      "exemple": "L’école achète des ballons pour tous les élèves." 
+    },
+    { 
+      "terme": "Propriétaire", 
+      "definition_simple": "La personne qui a payé et qui garde le papier officiel du contrat.", 
+      "exemple": "Si maman achète un vélo et son nom est sur la facture, elle est la propriétaire." 
+    },
+    { 
+      "terme": "Police", 
+      "definition_simple": "Le papier ou document officiel du contrat d’assurance.", 
+      "exemple": "Une fiche spéciale qui dit toutes les règles de l’assurance." 
+    }
+  ],
+  "mots_cles": ["individuel", "organisationnel", "assurance vie", "propriétaire", "police"],
+  "erreurs_communes": [
+    "Confondre 'propriétaire' avec la compagnie d’assurance.",
+    "Penser qu’'individuelle' peut concerner une organisation."
+  ],
+  "pistes_exclusion": [
+    "Si tu vois 'entreprise', 'association', c’est organisationnel.",
+    "Le mot 'individuelle' correspond toujours à une seule personne."
+  ]
+}
 
