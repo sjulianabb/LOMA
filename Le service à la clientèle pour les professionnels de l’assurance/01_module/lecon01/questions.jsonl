@@ -1,5 +1,5 @@
 {
-  "module": "Module 1",
+  "lecon": "Leçon 1",
   "lecon_ou_matiere": "Types de clients",
   "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client individuel ou d’un client organisationnel.",
   "question": "Un propriétaire d’assurance vie individuelle",
@@ -8,7 +8,7 @@
   "justification_breve": "Le terme « assurance vie individuelle » montre qu’il s’agit d’une seule personne physique, donc c’est un client individuel et non une organisation."
 }
 {
-  "module": "Module 1",
+  "lecon": "Leçon 1",
   "lecon_ou_matiere": "Types de clients",
   "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client individuel ou d’un client organisationnel.",
   "question_numero": 2,
@@ -18,3 +18,13 @@
   "justification_breve": "Une compagnie est un groupe. Quand elle achète une assurance pour ses employés, c’est un contrat collectif et donc un client organisationnel."
 }
 
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client individuel ou d’un client organisationnel.",
+  "question_numero": 3,
+  "question": "Un employé couvert par le régime d’assurance collective de son employeur",
+  "reponse_etudiant": "Client individuel",
+  "est_correcte": true,
+  "justification_breve": "Même si l’assurance est collective, l’énoncé parle de l’employé couvert. L’employé est une seule personne, donc c’est un client individuel."
+}
