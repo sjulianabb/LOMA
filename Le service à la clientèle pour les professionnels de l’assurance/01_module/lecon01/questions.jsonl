@@ -1,7 +1,9 @@
 {
+ {
   "lecon": "Leçon 1",
   "lecon_ou_matiere": "Types de clients",
   "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client individuel ou d’un client organisationnel.",
+  "question_numero": 1,
   "question": "Un propriétaire d’assurance vie individuelle",
   "reponse_etudiant": "Client individuel",
   "est_correcte": true,
