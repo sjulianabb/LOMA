@@ -206,4 +206,39 @@
     "Un employé de la compagnie qui aide un collègue, c’est un client interne — pas le cas ici."
   ]
 }
+    {
+  "concepts_cles": [
+    { 
+      "terme": "Assureur",
+      "definition_simple": "C’est la compagnie qui protège les personnes ou les entreprises quand il arrive un problème. Elle vend des contrats d’assurance pour aider les gens à rester en sécurité.",
+      "exemple": "Papa a acheté un contrat d’assurance avec la compagnie Industrielle Alliance. Si quelqu’un lui demande : « C’est qui ton assureur ? », il répond : « Mon assureur, c’est Industrielle Alliance. » 👉 L’assureur, c’est donc la compagnie qui protège papa."
+    },
+    { 
+      "terme": "Entreprise cliente",
+      "definition_simple": "C’est une entreprise qui achète un service à une compagnie d’assurance, mais qui ne travaille pas pour elle.",
+      "exemple": "L’entreprise de papa a signé un contrat avec Industrielle Alliance pour offrir un plan de retraite à ses employés. Même si elle a un contrat avec l’assureur, elle ne travaille pas dans la compagnie. 👉 Elle reste une entreprise cliente externe."
+    },
+    { 
+      "terme": "Employés participants",
+      "definition_simple": "Ce sont les employés qui profitent d’un plan que leur entreprise a acheté pour eux.",
+      "exemple": "Papa travaille dans une entreprise qui paie un plan de retraite pour tous ses employés. 👉 Papa fait partie des employés participants, car il reçoit un avantage de son travail."
+    },
+    { 
+      "terme": "Relation entreprise-assureur",
+      "definition_simple": "C’est quand une entreprise et une compagnie d’assurance travaillent ensemble pour aider les employés.",
+      "exemple": "L’entreprise de papa travaille avec Industrielle Alliance pour que les employés aient une bonne retraite. 👉 C’est une relation entreprise-assureur, car les deux compagnies collaborent pour aider les gens."
+    }
+  ],
+  "mots_cles": ["assureur", "entreprise cliente", "employés participants", "relation entreprise-assureur"],
+  "erreurs_communes": [
+    "Penser que la compagnie qui achète le plan travaille pour l’assureur.",
+    "Croire que les employés sont directement les clients de l’assureur.",
+    "Oublier que c’est une relation entre deux entreprises différentes."
+  ],
+  "pistes_exclusion": [
+    "Si une entreprise achète un service à une autre entreprise, c’est une relation externe.",
+    "Les employés profitent du plan, mais ce ne sont pas eux les clients directs."
+  ]
+}
+
 
