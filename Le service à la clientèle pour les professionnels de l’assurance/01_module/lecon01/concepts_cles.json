@@ -145,3 +145,35 @@
     "Une entreprise ne peut pas recevoir une rente personnelle, seulement une personne peut."
   ]
 }
+{
+  "concepts_cles": [
+    { 
+      "terme": "Demandeur d’assurance",
+      "definition_simple": "C’est une personne qui veut acheter une assurance et qui remplit une demande pour être protégée.",
+      "exemple": "Imagine que papa veut protéger sa famille avec une assurance. Il va dans une compagnie d’assurance et dit : « Bonjour ! Est-ce que je peux avoir une assurance pour moi ? » Alors, papa remplit un papier avec son nom, son âge et d’autres informations. Il demande à la compagnie s’il peut avoir cette assurance. 👉 Pendant qu’il attend la réponse, on l’appelle demandeur d’assurance. C’est comme quelqu’un qui fait une demande mais qui n’a pas encore le contrat."
+    },
+    { 
+      "terme": "Client externe", 
+      "definition_simple": "C’est une personne qui ne travaille pas dans la compagnie, mais qui achète ou veut acheter quelque chose.", 
+      "exemple": "Imagine qu’une dame entre dans une compagnie d’assurance pour acheter une assurance santé. Elle ne travaille pas là, elle vient de dehors. 👉 On l’appelle cliente externe, parce qu’elle vient de l’extérieur pour acheter un produit." 
+    },
+    { 
+      "terme": "Client interne", 
+      "definition_simple": "C’est une personne qui travaille dans la compagnie et qui aide un autre employé ou un autre service.", 
+      "exemple": "Imagine que Julie travaille dans la compagnie d’assurance. Un jour, elle a besoin d’aide du service informatique pour régler son ordinateur. 👉 Le service informatique devient le client interne de Julie, parce qu’ils travaillent tous les deux dans la même entreprise." 
+    },
+    { 
+      "terme": "Demande d’assurance", 
+      "definition_simple": "C’est un papier ou un document que la personne remplit pour demander une assurance.", 
+      "exemple": "Papa écrit son nom, son âge et son adresse sur un papier pour demander une assurance vie. Il signe le papier et le donne à la compagnie. 👉 Ce papier s’appelle une demande d’assurance." 
+    },
+    { 
+      "terme": "Processus de demande", 
+      "definition_simple": "C’est toutes les étapes que la compagnie fait pour décider si elle accepte ou non la demande d’assurance.", 
+      "exemple": "Quand papa envoie sa demande, la compagnie regarde sa santé, son âge et ses informations. 👉 Si tout va bien, elle dit oui et lui donne son assurance. Ces vérifications, c’est le processus de demande." 
+    }
+  ],
+  "mots_cles": ["demandeur d’assurance", "client externe", "client interne", "demande d’assurance", "processus de demande"],
+  "erreurs_communes": [
+    "Penser qu’un demandeur d’assurance travaille pour la compagnie.",
+    "Croire que t
