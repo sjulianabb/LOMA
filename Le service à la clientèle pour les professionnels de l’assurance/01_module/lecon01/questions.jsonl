@@ -40,3 +40,13 @@
   "est_correcte": true,
   "justification_breve": "Le réassureur est une entreprise qui assure d’autres compagnies d’assurance. Comme il s’agit d’une relation entre deux organisations, c’est un client organisationnel."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client individuel ou d’un client organisationnel.",
+  "question_numero": 5,
+  "question": "Un bénéficiaire de rente",
+  "reponse_etudiant": "Client individuel",
+  "est_correcte": true,
+  "justification_breve": "Le bénéficiaire de rente est une seule personne qui reçoit de l’argent de son assurance ou de son plan de retraite. Le mot 'bénéficiaire' est au singulier, ce qui montre qu’il s’agit d’un individu et non d’une entreprise. C’est donc un client individuel."
+}
