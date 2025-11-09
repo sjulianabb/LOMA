@@ -109,3 +109,39 @@
     "Un réassureur n’assure jamais directement les personnes, seulement les assureurs."
   ]
 }
+{
+  "terme": "Rente",
+  "definition_simple": "C’est de l’argent qu’une personne reçoit régulièrement, souvent chaque mois, pour une longue période. Cet argent peut venir d’une assurance, d’un plan de retraite ou même d’une maison qu’elle loue.",
+  "exemple": "Papa reçoit chaque mois de l’argent de son assurance et aussi le loyer de sa maison. Ces paiements réguliers sont des rentes."
+{
+  "terme": "Bénéficiaire", 
+  "definition_simple": "C’est la personne qui reçoit l’argent d’une assurance ou d’un plan.", 
+   "exemple": "Si maman a une assurance vie et qu’elle dit que toi tu recevras l’argent, tu es le bénéficiaire." 
+    },
+    { 
+      "terme": "Bénéficiaire de rente", 
+      "definition_simple": "C’est une personne qui reçoit régulièrement de l’argent d’un plan de retraite ou d’une assurance.", 
+      "exemple": "Si maman a une assurance vie et qu’elle dit que toi tu recevras l’argent, tu es le bénéficiaire." 
+    },
+    { 
+      "terme": "Revenu régulier", 
+      "definition_simple": "C’est de l’argent qui arrive souvent, comme chaque semaine ou chaque mois.", 
+      "exemple": "Ton argent de poche que tu reçois chaque samedi est un revenu régulier." 
+    },
+    { 
+      "terme": "Retraite", 
+      "definition_simple": "C’est le moment où une personne arrête de travailler et reçoit de l’argent qu’elle a économisé avant.", 
+      "exemple": "Papa ne travaille plus, mais il reçoit une rente chaque mois pour sa retraite." 
+    }
+  ],
+  "mots_cles": ["rente", "bénéficiaire", "revenu régulier", "retraite"],
+  "erreurs_communes": [
+    "Croire que le bénéficiaire de rente est une entreprise.",
+    "Penser que 'rente' veut dire une seule fois, alors que c’est de l’argent reçu souvent.",
+    "Oublier que le mot 'bénéficiaire' parle d’une seule personne."
+  ],
+  "pistes_exclusion": [
+    "Si le mot est au singulier et parle d’une personne, c’est individuel.",
+    "Une entreprise ne peut pas recevoir une rente personnelle, seulement une personne peut."
+  ]
+}
