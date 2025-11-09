@@ -240,5 +240,39 @@
     "Les employés profitent du plan, mais ce ne sont pas eux les clients directs."
   ]
 }
+{
+  "concepts_cles": [
+    { 
+      "terme": "Service de facturation",
+      "definition_simple": "C’est le service qui s’occupe des paiements, des factures et des primes d’assurance.",
+      "exemple": "Maria travaille au service de facturation. Elle vérifie que les clients ont bien reçu leurs factures et que les paiements sont faits à temps."
+    },
+    { 
+      "terme": "Fournisseur de services",
+      "definition_simple": "C’est la personne qui aide les clients en leur donnant de l’information ou en réglant leurs problèmes.",
+      "exemple": "Nathan travaille dans une compagnie d’assurance. Quand un client appelle pour poser une question, c’est Nathan qui l’aide. 👉 Il est un fournisseur de services."
+    },
+    { 
+      "terme": "Communication interne",
+      "definition_simple": "C’est quand deux employés d’une même compagnie s’écrivent ou se parlent pour régler un dossier.",
+      "exemple": "Nathan envoie un courriel à Maria pour lui demander de vérifier un paiement. 👉 C’est une communication interne, car ils travaillent dans la même compagnie."
+    },
+    { 
+      "terme": "Collaboration entre collègues",
+      "definition_simple": "C’est quand deux personnes qui travaillent dans la même entreprise s’aident pour régler un problème ou servir un client.",
+      "exemple": "Nathan parle à Maria pour l’aider à régler le dossier d’un client. 👉 Ils collaborent ensemble comme collègues."
+    }
+  ],
+  "mots_cles": ["service de facturation", "fournisseur de services", "communication interne", "collaboration entre collègues"],
+  "erreurs_communes": [
+    "Penser que Nathan aide directement un client externe quand il parle à Maria.",
+    "Oublier que Maria et Nathan travaillent tous les deux dans la même entreprise.",
+    "Confondre communication interne et contact avec un client externe."
+  ],
+  "pistes_exclusion": [
+    "Si deux personnes travaillent dans la même compagnie, c’est une relation interne.",
+    "Si une personne parle à un vrai client ou une autre entreprise, c’est une relation externe."
+  ]
+}
 
 
