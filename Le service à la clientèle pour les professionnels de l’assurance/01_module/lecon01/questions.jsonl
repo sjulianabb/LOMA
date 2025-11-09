@@ -30,3 +30,13 @@
   "est_correcte": true,
   "justification_breve": "Même si l’assurance est collective, l’énoncé parle de l’employé couvert. L’employé est une seule personne, donc c’est un client individuel."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client individuel ou d’un client organisationnel.",
+  "question_numero": 4,
+  "question": "Un réassureur qui couvre une partie des risques des polices d’un assureur direct",
+  "reponse_etudiant": "Client organisationnel",
+  "est_correcte": true,
+  "justification_breve": "Le réassureur est une entreprise qui assure d’autres compagnies d’assurance. Comme il s’agit d’une relation entre deux organisations, c’est un client organisationnel."
+}
