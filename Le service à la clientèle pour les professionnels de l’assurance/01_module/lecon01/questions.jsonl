@@ -50,3 +50,14 @@
   "est_correcte": true,
   "justification_breve": "Le bénéficiaire de rente est une seule personne qui reçoit de l’argent de son assurance ou de son plan de retraite. Le mot 'bénéficiaire' est au singulier, ce qui montre qu’il s’agit d’un individu et non d’une entreprise. C’est donc un client individuel."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client externe ou d’un client interne.",
+  "question_numero": 6,
+  "question": "Un demandeur d’assurance",
+  "reponse_etudiant": "Client externe",
+  "est_correcte": true,
+  "justification_breve": "Le demandeur d’assurance est une personne de l’extérieur qui veut acheter une assurance. Il ne travaille pas pour la compagnie, donc c’est un client externe."
+}
+
