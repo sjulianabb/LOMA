@@ -172,8 +172,38 @@
       "definition_simple": "C’est toutes les étapes que la compagnie fait pour décider si elle accepte ou non la demande d’assurance.", 
       "exemple": "Quand papa envoie sa demande, la compagnie regarde sa santé, son âge et ses informations. 👉 Si tout va bien, elle dit oui et lui donne son assurance. Ces vérifications, c’est le processus de demande." 
     }
+ {
+  "concepts_cles": [
+    { 
+      "terme": "Propriétaire de contrat de rente",
+      "definition_simple": "C’est la personne qui possède un contrat de rente et qui a le droit de recevoir de l’argent régulièrement.",
+      "exemple": "Imagine que papa a acheté un contrat d’assurance qui lui donne de l’argent chaque mois. Il garde le papier officiel du contrat, donc papa est le propriétaire de contrat de rente."
+    },
+    { 
+      "terme": "Propriétaire",
+      "definition_simple": "C’est la personne dont le nom est sur le papier officiel d’un contrat ou d’un bien.",
+      "exemple": "Si papa achète une voiture et que son nom est sur la facture, il est le propriétaire de la voiture."
+    },
+    { 
+      "terme": "Contrat de rente",
+      "definition_simple": "C’est un document officiel entre une personne et la compagnie d’assurance qui dit que la personne recevra de l’argent régulièrement.",
+      "exemple": "Papa signe un papier avec la compagnie d’assurance pour recevoir un peu d’argent chaque mois. Ce papier s’appelle un contrat de rente."
+    },
+    { 
+      "terme": "Relation client-compagnie",
+      "definition_simple": "C’est le lien entre une personne et une compagnie d’assurance quand elle achète ou possède un produit.",
+      "exemple": "Quand papa signe un contrat d’assurance avec la compagnie, il devient leur client et la compagnie doit s’occuper de lui."
+    }
   ],
-  "mots_cles": ["demandeur d’assurance", "client externe", "client interne", "demande d’assurance", "processus de demande"],
+  "mots_cles": ["propriétaire", "contrat de rente", "relation client-compagnie"],
   "erreurs_communes": [
-    "Penser qu’un demandeur d’assurance travaille pour la compagnie.",
-    "Croire que t
+    "Penser qu’une personne devient client interne après avoir acheté un contrat.",
+    "Confondre 'propriétaire' avec la compagnie d’assurance.",
+    "Oublier qu’un propriétaire de contrat est toujours une personne de l’extérieur."
+  ],
+  "pistes_exclusion": [
+    "Si la personne possède un produit d’assurance mais ne travaille pas pour la compagnie, c’est un client externe.",
+    "Un employé de la compagnie qui aide un collègue, c’est un client interne — pas le cas ici."
+  ]
+}
+
