@@ -60,4 +60,14 @@
   "est_correcte": true,
   "justification_breve": "Le demandeur d’assurance est une personne de l’extérieur qui veut acheter une assurance. Il ne travaille pas pour la compagnie, donc c’est un client externe."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client externe ou d’un client interne.",
+  "question_numero": 7,
+  "question": "Un propriétaire de contrat de rente",
+  "reponse_etudiant": "Client externe",
+  "est_correcte": true,
+  "justification_breve": "Le propriétaire de contrat de rente a acheté un produit d’assurance à la compagnie, mais il ne travaille pas pour elle. Même s’il possède déjà un contrat, il reste à l’extérieur de l’entreprise. C’est donc un client externe."
+}
 
