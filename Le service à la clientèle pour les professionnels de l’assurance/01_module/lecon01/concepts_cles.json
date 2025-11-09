@@ -70,3 +70,42 @@
   ]
 }
 
+{
+  "concepts_cles": [
+    { 
+      "terme": "Assureur direct", 
+      "definition_simple": "C’est la compagnie qui vend l’assurance aux personnes ou aux entreprises.", 
+      "exemple": "Industrielle Alliance vend une assurance vie à papa." 
+    },
+    { 
+      "terme": "Réassureur", 
+      "definition_simple": "C’est une grande compagnie qui protège les compagnies d’assurance quand elles ont trop de risques.", 
+      "exemple": "Swiss Re aide une autre compagnie d’assurance à payer si beaucoup de gens ont un accident en même temps." 
+    },
+    { 
+      "terme": "Risque", 
+      "definition_simple": "C’est quelque chose qui peut faire perdre de l’argent ou causer un malheur.", 
+      "exemple": "Si quelqu’un meurt ou s’il y a un feu, c’est un risque." 
+    },
+    { 
+      "terme": "Transfert de risque", 
+      "definition_simple": "C’est quand une compagnie donne une partie de ses risques à une autre compagnie pour ne pas tout perdre.", 
+      "exemple": "L’assureur donne un peu de son risque au réassureur pour être plus en sécurité." 
+    },
+    { 
+      "terme": "Contrat de réassurance", 
+      "definition_simple": "C’est le papier officiel entre l’assureur direct et le réassureur qui dit comment ils vont partager les risques.", 
+      "exemple": "C’est comme un contrat d’assurance, mais pour les compagnies d’assurance entre elles." 
+    }
+  ],
+  "mots_cles": ["réassureur", "assureur direct", "risque", "transfert de risque", "contrat de réassurance"],
+  "erreurs_communes": [
+    "Penser qu’un réassureur protège directement les gens.",
+    "Croire qu’un réassureur est une seule personne et non une entreprise.",
+    "Oublier que le contrat de réassurance est entre deux compagnies, pas entre une personne et une compagnie."
+  ],
+  "pistes_exclusion": [
+    "Si tu vois que c’est une entreprise qui aide une autre entreprise, c’est organisationnel.",
+    "Un réassureur n’assure jamais directement les personnes, seulement les assureurs."
+  ]
+}
