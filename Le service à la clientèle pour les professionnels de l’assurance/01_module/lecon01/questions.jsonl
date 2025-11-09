@@ -70,4 +70,14 @@
   "est_correcte": true,
   "justification_breve": "Le propriétaire de contrat de rente a acheté un produit d’assurance à la compagnie, mais il ne travaille pas pour elle. Même s’il possède déjà un contrat, il reste à l’extérieur de l’entreprise. C’est donc un client externe."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client externe ou d’un client interne.",
+  "question_numero": 8,
+  "question": "Une compagnie qui utilise les services de l’assureur pour son plan de retraite.",
+  "reponse_etudiant": "Client externe",
+  "est_correcte": true,
+  "justification_breve": "La compagnie achète les services de l’assureur, comme Industrielle Alliance, pour offrir un plan de retraite à ses employés. Elle ne fait pas partie de l’assureur, elle utilise ses services mais elle vient de l’extérieur. C’est donc un client externe."
+}
 
