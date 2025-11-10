@@ -274,5 +274,39 @@
     "Si une personne parle à un vrai client ou une autre entreprise, c’est une relation externe."
   ]
 }
+{
+  "concepts_cles": [
+    { 
+      "terme": "Bénéficiaire d’assurance vie",
+      "definition_simple": "C’est la personne choisie par l’assuré pour recevoir l’argent de l’assurance quand il meurt.",
+      "exemple": "Eileen a choisi son mari Gary pour recevoir l’argent de son assurance vie s’il lui arrivait quelque chose. 👉 Gary est le bénéficiaire de l’assurance vie."
+    },
+    { 
+      "terme": "Prestations d’assurance",
+      "definition_simple": "C’est l’argent que la compagnie d’assurance donne au bénéficiaire quand un événement prévu dans le contrat arrive, comme un décès.",
+      "exemple": "Quand Eileen est décédée, Gary a reçu de l’argent de la compagnie d’assurance. 👉 Cet argent s’appelle une prestation d’assurance."
+    },
+    { 
+      "terme": "Réclamation d’assurance",
+      "definition_simple": "C’est quand quelqu’un demande à recevoir l’argent prévu dans un contrat d’assurance.",
+      "exemple": "Après le décès d’Eileen, Gary a téléphoné à la compagnie d’assurance pour demander l’argent de la police. 👉 C’est une réclamation d’assurance."
+    },
+    { 
+      "terme": "Assurance collective",
+      "definition_simple": "C’est une assurance offerte à plusieurs personnes en même temps, souvent par leur employeur.",
+      "exemple": "L’entreprise d’Eileen a acheté une assurance vie pour tous ses employés. 👉 C’est une assurance collective."
+    }
+  ],
+  "mots_cles": ["bénéficiaire d’assurance vie", "prestations d’assurance", "réclamation d’assurance", "assurance collective"],
+  "erreurs_communes": [
+    "Penser que le bénéficiaire travaille pour la compagnie d’assurance.",
+    "Croire que le bénéficiaire fait partie du groupe de l’employeur.",
+    "Oublier que même si le produit est collectif, le bénéficiaire reste une personne individuelle."
+  ],
+  "pistes_exclusion": [
+    "Si la personne reçoit l’argent de l’assurance, c’est un client externe individuel.",
+    "Le client organisationnel dans ce cas est l’employeur qui a acheté le plan collectif."
+  ]
+}
 
 
