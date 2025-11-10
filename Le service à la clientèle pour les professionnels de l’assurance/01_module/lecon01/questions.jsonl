@@ -80,4 +80,14 @@
   "est_correcte": true,
   "justification_breve": "La compagnie achète les services de l’assureur, comme Industrielle Alliance, pour offrir un plan de retraite à ses employés. Elle ne fait pas partie de l’assureur, elle utilise ses services mais elle vient de l’extérieur. C’est donc un client externe."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Indiquez si chacun des éléments suivants est un exemple d’un client externe ou d’un client interne.",
+  "question_numero": 9,
+  "question": "Le mari d’une employée reçoit les prestations d’assurance vie collective après le décès de sa femme.",
+  "reponse_etudiant": "Client externe",
+  "est_correcte": true,
+  "justification_breve": "Le mari est une seule personne qui reçoit l’argent de l’assurance après le décès de sa femme. Même si le contrat d’assurance vient d’un plan collectif de l’employeur, le bénéficiaire reste une personne de l’extérieur. C’est donc un client externe individuel."
+}
 
