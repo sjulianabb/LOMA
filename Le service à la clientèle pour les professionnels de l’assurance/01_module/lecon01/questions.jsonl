@@ -90,4 +90,14 @@
   "est_correcte": true,
   "justification_breve": "Le mari est une seule personne qui reçoit l’argent de l’assurance après le décès de sa femme. Même si le contrat d’assurance vient d’un plan collectif de l’employeur, le bénéficiaire reste une personne de l’extérieur. C’est donc un client externe individuel."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Indiquez si l’énoncé suivant est vrai ou faux.",
+  "question_numero": 10,
+  "question": "Les clients doivent connaître tous les détails sur la manière dont une compagnie d’assurance répond à leurs demandes.",
+  "reponse_etudiant": "Vrai",
+  "est_correcte": false,
+  "justification_breve": "Les clients ont le droit de savoir comment la compagnie répond à leurs demandes, mais ils n’ont pas le devoir de connaître tous les détails. Ce n’est pas une obligation d’apprendre le fonctionnement interne de l’entreprise. Ce qu’ils veulent, c’est une réponse claire et un service efficace."
+}
 
