@@ -100,4 +100,14 @@
   "est_correcte": false,
   "justification_breve": "Les clients ont le droit de savoir comment la compagnie répond à leurs demandes, mais ils n’ont pas le devoir de connaître tous les détails. Ce n’est pas une obligation d’apprendre le fonctionnement interne de l’entreprise. Ce qu’ils veulent, c’est une réponse claire et un service efficace."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Indiquez si l’énoncé suivant est vrai ou faux.",
+  "question_numero": 11,
+  "question": "Les employés des compagnies d’assurance développent toujours une mentalité de silo lorsque leur service travaille dans un endroit différent des autres.",
+  "reponse_etudiant": "Faux",
+  "est_correcte": true,
+  "justification_breve": " Le mot 'toujours' veut dire que c’est dans 100 % des cas, et c’est pour ça que la phrase est fausse. 🌈 Imagine une compagnie d’assurance avec plusieurs services : les ventes, la facturation et les réclamations. Parfois, ces équipes travaillent dans des endroits différents, alors elles se voient moins. 💡 Une 'mentalité de silo' veut dire que chaque service garde les informations pour lui et ne parle pas beaucoup aux autres. Mais ce n’est pas toujours comme ça ! Certaines compagnies gardent une bonne communication et collaboration même si leurs employés travaillent dans des bureaux séparés. 💻 Donc, ce n’est pas toujours vrai : la phrase est fausse."
+}
 
