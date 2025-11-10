@@ -308,5 +308,39 @@
     "Le client organisationnel dans ce cas est l’employeur qui a acheté le plan collectif."
   ]
 }
+{
+  "concepts_cles": [
+    { 
+      "terme": "Service à la clientèle",
+      "definition_simple": "C’est l’aide qu’une compagnie donne à ses clients quand ils ont des questions ou des problèmes.",
+      "exemple": "Quand papa téléphone à la compagnie d’assurance pour poser une question, une personne gentille lui répond et l’aide. 👉 C’est le service à la clientèle."
+    },
+    { 
+      "terme": "Communication efficace",
+      "definition_simple": "C’est quand la compagnie explique les choses clairement et écoute bien les besoins du client.",
+      "exemple": "L’agent d’assurance parle lentement et répond à toutes les questions de papa sans mots compliqués. 👉 C’est une communication efficace."
+    },
+    { 
+      "terme": "Besoins du client",
+      "definition_simple": "Ce sont les choses importantes que le client veut ou attend quand il parle à la compagnie.",
+      "exemple": "Papa veut juste savoir si son assurance va payer à temps. 👉 Son besoin, c’est d’avoir une réponse claire et rapide."
+    },
+    { 
+      "terme": "Transparence",
+      "definition_simple": "C’est quand la compagnie dit la vérité et explique les choses sans rien cacher.",
+      "exemple": "L’agent explique à papa que le paiement prendra trois jours et pourquoi. 👉 C’est de la transparence."
+    }
+  ],
+  "mots_cles": ["service à la clientèle", "communication efficace", "besoins du client", "transparence"],
+  "erreurs_communes": [
+    "Penser que le client doit apprendre tout le fonctionnement de la compagnie.",
+    "Croire que donner trop de détails rend le service meilleur.",
+    "Oublier que la clarté et la simplicité sont plus importantes pour le client."
+  ],
+  "pistes_exclusion": [
+    "Les clients veulent comprendre leurs réponses, pas tout le processus interne.",
+    "C’est la compagnie qui doit bien communiquer, pas le client qui doit tout savoir."
+  ]
+}
 
 
