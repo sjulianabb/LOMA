@@ -375,6 +375,40 @@
     "S’il travaille avec la compagnie et aide les clients, il est à la fois interne et externe.",
     "Un vrai employé administratif serait seulement interne, mais pas le conseiller."
   ]
+}{
+  "concepts_cles": [
+    { 
+      "terme": "Système de distribution indirecte",
+      "definition_simple": "C’est quand la compagnie d’assurance demande de l’aide à d’autres personnes pour vendre ses produits.",
+      "exemple": "La compagnie d’assurance demande à un conseiller ou à une banque de parler de ses produits aux clients. 👉 C’est de la distribution indirecte."
+    },
+    { 
+      "terme": "Partenaire commercial",
+      "definition_simple": "C’est une personne ou une entreprise amie qui travaille avec la compagnie pour aider à vendre ses produits.",
+      "exemple": "Une banque ou un conseiller aide la compagnie d’assurance à trouver des clients. 👉 C’est un partenaire commercial."
+    },
+    { 
+      "terme": "Intermédiaire",
+      "definition_simple": "C’est quelqu’un qui aide deux personnes à se parler ou à faire un échange.",
+      "exemple": "Le conseiller aide la compagnie d’assurance et le client à se comprendre. 👉 Il est un intermédiaire."
+    },
+    { 
+      "terme": "Distribution directe",
+      "definition_simple": "C’est quand la compagnie d’assurance vend ses produits elle-même, sans demander d’aide à d’autres.",
+      "exemple": "Papa achète une assurance directement sur le site de la compagnie, sans passer par un conseiller. 👉 C’est de la distribution directe."
+    }
+  ],
+  "mots_cles": ["distribution indirecte", "partenaire commercial", "intermédiaire", "distribution directe"],
+  "erreurs_communes": [
+    "Penser que les partenaires commerciaux travaillent à l’intérieur de la compagnie.",
+    "Oublier que les partenaires commerciaux sont des entreprises différentes.",
+    "Confondre distribution directe et indirecte."
+  ],
+  "pistes_exclusion": [
+    "Si la compagnie vend toute seule, c’est une distribution directe.",
+    "Si quelqu’un d’autre aide la compagnie à vendre, c’est une distribution indirecte ou un partenaire commercial."
+  ]
 }
+
 
 
