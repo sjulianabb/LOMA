@@ -409,6 +409,34 @@
     "Si quelqu’un d’autre aide la compagnie à vendre, c’est une distribution indirecte ou un partenaire commercial."
   ]
 }
+{
+  "concepts_cles": [
+    { 
+      "terme": "Gérant de carrière",
+      "definition_simple": "C’est la personne qui forme et aide les conseillers à bien expliquer les produits de la compagnie aux clients.",
+      "exemple": "Le gérant de carrière montre aux conseillers comment parler avec gentillesse et clarté aux clients."
+    },
+    { 
+      "terme": "Agent exclusif multibranche",
+      "definition_simple": "C’est un employé qui vend seulement les produits d’une seule compagnie d’assurance.",
+      "exemple": "L’agent exclusif d’Industrielle Alliance vend juste les assurances de cette compagnie, pas celles d’une autre."
+    },
+    { 
+      "terme": "Représentant de vente salarié",
+      "definition_simple": "C’est une personne payée par la compagnie pour parler aux clients et leur proposer les produits d’assurance.",
+      "exemple": "Marie travaille pour la compagnie et reçoit un salaire chaque mois pour expliquer les assurances aux clients."
+    }
+  ],
+  "mots_cles": ["gérant de carrière", "agent exclusif", "représentant de vente salarié"],
+  "erreurs_communes": [
+    "Penser que ces personnes travaillent pour plusieurs compagnies.",
+    "Croire qu’elles sont des partenaires externes."
+  ],
+  "pistes_exclusion": [
+    "S’ils reçoivent leur salaire de la compagnie, ils travaillent à l’intérieur.",
+    "S’ils représentent plusieurs compagnies, ce n’est plus un agent exclusif."
+  ]
+}
 
 
 
