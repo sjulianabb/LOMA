@@ -120,4 +120,14 @@
   "est_correcte": false,
   "justification_breve": "👶 Un professionnel des services financiers peut être à la fois client interne et client externe. 💡 À l’intérieur, il travaille avec la compagnie d’assurance, reçoit du soutien des employés internes et utilise leurs services. 🌈 Mais à l’extérieur, il aide les clients à choisir les produits d’assurance et à comprendre leurs besoins. 💬 C’est donc un pont entre la compagnie et les clients externes. 👉 Voilà pourquoi les deux réponses sont correctes."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Choisissez toutes les réponses qui s’appliquent.",
+  "question_numero": 13,
+  "question": "Des conseillers indépendants, des courtiers-négociants, des conseillers en placement inscrits, des banques et d’autres compagnies d’assurance peuvent faire partie du/des ______ d’un assureur.",
+  "reponse_etudiant": "Système de distribution indirecte",
+  "est_correcte": true,
+  "justification_breve": "👶 C’est vrai ! Ces personnes et entreprises aident la compagnie d’assurance à vendre ses produits. 🌈 Elles ne travaillent pas dans la compagnie, mais elles travaillent avec elle, un peu comme des amis qui l’aident à parler aux clients. 💡 On dit qu’elles font partie du système de distribution indirecte. Et comme elles collaborent avec la compagnie, ce sont aussi des partenaires commerciaux."
+}
 
