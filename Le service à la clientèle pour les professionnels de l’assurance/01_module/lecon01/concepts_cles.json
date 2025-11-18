@@ -342,5 +342,39 @@
     "C’est la compagnie qui doit bien communiquer, pas le client qui doit tout savoir."
   ]
 }
+{
+  "concepts_cles": [
+    { 
+      "terme": "Professionnel des services financiers",
+      "definition_simple": "C’est une personne qui aide les clients à comprendre, choisir et acheter des produits financiers comme les assurances ou les placements.",
+      "exemple": "Le conseiller parle avec papa pour l’aider à choisir la meilleure assurance vie pour sa famille. 👉 C’est un professionnel des services financiers."
+    },
+    { 
+      "terme": "Conseiller",
+      "definition_simple": "C’est quelqu’un qui donne des explications et des conseils aux clients pour les aider à prendre de bonnes décisions.",
+      "exemple": "Le conseiller explique à papa les différences entre deux types d’assurance. 👉 Il l’aide à choisir, mais ne prend pas la décision à sa place."
+    },
+    { 
+      "terme": "Client mixte",
+      "definition_simple": "C’est une personne ou un groupe qui peut être à la fois client interne et externe selon la situation.",
+      "exemple": "Le professionnel des services financiers travaille avec la compagnie, mais aide aussi les clients. 👉 Il est donc un client mixte."
+    },
+    { 
+      "terme": "Relation de collaboration",
+      "definition_simple": "C’est quand deux parties, comme un conseiller et une compagnie d’assurance, travaillent ensemble pour atteindre un but commun.",
+      "exemple": "Le conseiller et la compagnie d’assurance discutent souvent pour aider les clients à trouver les bons produits. 👉 C’est une relation de collaboration."
+    }
+  ],
+  "mots_cles": ["professionnel des services financiers", "conseiller", "client mixte", "relation de collaboration"],
+  "erreurs_communes": [
+    "Penser qu’un professionnel des services financiers est seulement un client interne.",
+    "Oublier que ce rôle touche aussi les clients externes.",
+    "Confondre le conseiller avec un employé de la compagnie d’assurance."
+  ],
+  "pistes_exclusion": [
+    "S’il travaille avec la compagnie et aide les clients, il est à la fois interne et externe.",
+    "Un vrai employé administratif serait seulement interne, mais pas le conseiller."
+  ]
+}
 
 
