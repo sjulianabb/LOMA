@@ -436,6 +436,24 @@
     "S’ils reçoivent leur salaire de la compagnie, ils travaillent à l’intérieur.",
     "S’ils représentent plusieurs compagnies, ce n’est plus un agent exclusif."
   ]
+}{
+  "concepts_cles": [
+    { 
+      "terme": "Mentalité de silo",
+      "definition_simple": "C’est quand chaque service d’une compagnie travaille tout seul et ne partage pas ses informations avec les autres.",
+      "exemple": "Au lieu de parler ensemble, le service des réclamations, de la tarification et du service à la clientèle gardent chacun leurs infos pour eux. 👉 C’est une mentalité de silo."
+    }
+  ],
+  "mots_cles": ["mentalité de silo", "communication", "travail d’équipe"],
+  "erreurs_communes": [
+    "Croire que la mentalité de silo est quelque chose de positif.",
+    "Penser que les employés ne doivent pas partager leurs informations.",
+    "Oublier que la bonne communication aide à mieux servir les clients."
+  ],
+  "pistes_exclusion": [
+    "Si les services ne se parlent pas, il y a une mentalité de silo.",
+    "Si les employés partagent leurs infos et travaillent ensemble, il n’y en a pas."
+  ]
 }
 
 
