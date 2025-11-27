@@ -140,4 +140,14 @@
   "est_correcte": true,
   "justification_breve": "👶 C’est vrai ! Ces personnes travaillent directement pour la compagnie d’assurance. 💼 Le gérant de carrière, c’est la personne qui forme et aide les conseillers à mieux vendre les produits de la compagnie. 🧑‍💼 L’agent exclusif multibranche est un employé de la compagnie qui vend seulement les produits de cette compagnie. 💬 Le représentant de vente salarié est une personne payée directement par la compagnie, avec un salaire fixe, pour vendre ses produits et parler aux clients. 🌈 Comme ils travaillent tous à l’intérieur de la compagnie, ils font partie du système de distribution directe."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients",
+  "indication": "Choisissez la bonne réponse.",
+  "question_numero": 15,
+  "question": "À la Timber Insurance Company, les services des réclamations, de la tarification et du service à la clientèle ont adopté une mentalité de silo. À propos de cette situation, on peut affirmer sans se tromper que...",
+  "reponse_etudiant": "Un manque de communication et d’échange d’information entre les services de Timber pourrait causer des problèmes du côté du service à la clientèle.",
+  "est_correcte": true,
+  "justification_breve": "👶 C’est vrai ! Une 'mentalité de silo' veut dire que chaque service travaille tout seul sans parler aux autres. 🌈 Par exemple, le service des réclamations ne partage pas ses infos avec celui du service à la clientèle. 💡 Cela cause des malentendus et des erreurs, car personne ne voit l’ensemble du travail. 👉 Donc, le vrai problème, c’est le manque de communication entre les services."
+}
 
