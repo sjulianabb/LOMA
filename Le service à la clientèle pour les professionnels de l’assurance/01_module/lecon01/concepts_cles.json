@@ -454,7 +454,25 @@
     "Si les services ne se parlent pas, il y a une mentalité de silo.",
     "Si les employés partagent leurs infos et travaillent ensemble, il n’y en a pas."
   ]
+}{
+  "concepts_cles": [
+    { 
+      "terme": "Force de vente",
+      "definition_simple": "C’est l’équipe de personnes qui VENDENT les produits d’une entreprise. Elles parlent aux clients, expliquent, conseillent et concluent la vente.",
+      "exemple": "Dans une compagnie d’assurance, les conseillers au téléphone, les agents en bureau et les représentants qui visitent des entreprises font partie de la force de vente."
+    }
+  ],
+  "mots_cles": ["force de vente", "équipe commerciale", "vendeurs", "clients"],
+  "erreurs_communes": [
+    "Croire que la force de vente = service comptable ou informatique.",
+    "Penser que toute personne de l’entreprise fait partie de la force de vente."
+  ],
+  "pistes_exclusion": [
+    "S’il VEND au client, il fait partie de la force de vente.",
+    "S’il gère les factures, les systèmes ou la tarification, il n’en fait pas partie."
+  ]
 }
+
 
 
 
