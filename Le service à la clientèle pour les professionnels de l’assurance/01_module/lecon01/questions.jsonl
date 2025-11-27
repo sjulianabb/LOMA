@@ -150,4 +150,19 @@
   "est_correcte": true,
   "justification_breve": "👶 C’est vrai ! Une 'mentalité de silo' veut dire que chaque service travaille tout seul sans parler aux autres. 🌈 Par exemple, le service des réclamations ne partage pas ses infos avec celui du service à la clientèle. 💡 Cela cause des malentendus et des erreurs, car personne ne voit l’ensemble du travail. 👉 Donc, le vrai problème, c’est le manque de communication entre les services."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Types de clients et systèmes de distribution",
+  "indication": "Choisissez la ou les bonnes réponses.",
+  "question_numero": 16,
+  "question": "Les professionnels des services financiers peuvent faire partie du système de distribution directe ou indirecte d’une compagnie d’assurance. Le ou les énoncés suivants sont corrects au sujet de ces différents systèmes :",
+  "options": {
+    "A": "Dans un système de distribution directe, la compagnie d’assurance exerce un contrôle important sur sa force de vente.",
+    "B": "Les professionnels des services financiers qui font partie d’un système de distribution indirecte sont généralement responsables de leurs propres dépenses commerciales, y compris les frais de bureau, de formation, de marketing et les avantages sociaux.",
+    "C": "Les professionnels de services financiers qui font partie d’un système de distribution indirecte n’ont aucune obligation de faire affaire avec un assureur en particulier."
+  },
+  "reponse_etudiant": "A, B et C",
+  "est_correcte": true,
+  "justification_breve": "👶 Imagine deux façons de vendre. 1) 🌟 Directe: la compagnie utilise ses propres vendeurs. Elle décide, elle surveille, elle forme = elle contrôle sa force de vente (A). 2) 🚀 Indirecte: ce sont des conseillers indépendants. Ils paient leurs dépenses (bureau, formation, pub, avantages) parce qu’ils ne sont pas employés (B) et ils peuvent choisir avec quelles compagnies travailler, donc pas d’obligation envers une seule (C). 🌈 Résumé: Directe = la compagnie commande. Indirecte = le conseiller est autonome. Voilà pourquoi A, B et C sont vrais."
+}
 
