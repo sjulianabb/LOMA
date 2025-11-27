@@ -473,6 +473,54 @@
   ]
 }
 
-
+    {
+      "terme": "Contrôle de la force de vente",
+      "definition_simple": "C’est quand la compagnie décide comment ses vendeurs travaillent (objectifs, formation, règles).",
+      "exemple": "La compagnie dit aux vendeurs quoi expliquer aux clients et comment le faire. 👉 Elle contrôle sa force de vente."
+    },
+    {
+      "terme": "Dépenses d’affaires",
+      "definition_simple": "Ce sont les coûts pour travailler: bureau, pub, formation, ordinateur, avantages.",
+      "exemple": "Un conseiller indépendant paie son bureau et sa publicité avec son propre argent. 👉 Ce sont ses dépenses d’affaires."
+    },
+    {
+      "terme": "Autonomie du conseiller",
+      "definition_simple": "C’est la liberté de décider comment travailler et avec qui travailler.",
+      "exemple": "Le conseiller choisit ses horaires et les produits qu’il propose aux clients. 👉 Il a de l’autonomie."
+    },
+    {
+      "terme": "Non-exclusivité",
+      "definition_simple": "C’est quand on peut travailler avec plusieurs compagnies et pas seulement une.",
+      "exemple": "Le conseiller indépendant peut offrir les produits de plusieurs assureurs. 👉 Il n’est pas exclusif."
+    },
+    {
+      "terme": "Indépendant",
+      "definition_simple": "C’est une personne qui ne travaille pas comme employé d’une compagnie.",
+      "exemple": "Le conseiller qui n’a pas de salaire de la compagnie et paie ses propres coûts est un indépendant."
+    }
+  ],
+  "mots_cles": ["force de vente", "contrôle", "dépenses d’affaires", "autonomie", "non-exclusivité", "indépendant"],
+  "erreurs_communes": [
+    "Penser que la compagnie paie toujours les dépenses (même en indirect).",
+    "Croire qu’un conseiller indépendant doit rester avec une seule compagnie.",
+    "Confondre ‘contrôle’ fort (direct) avec simple ‘collaboration’ (indirect)."
+  ],
+  "pistes_exclusion": [
+    "Si la compagnie décide et paie → souvent vente directe.",
+    "Si le conseiller paie ses coûts et choisit plusieurs assureurs → vente indirecte."
+  ]
+}
+{
+  "concepts_cles": [
+    {
+      "terme": "Système de distribution directe",
+      "definition_simple": "C’est quand la compagnie d’assurance vend ses produits avec ses propres employés.",
+      "exemple": "Un conseiller salarié de la compagnie parle aux clients et vend l’assurance. 👉 C’est de la distribution directe."
+    },
+    {
+      "terme": "Système de distribution indirecte",
+      "definition_simple": "C’est quand la compagnie d’assurance demande à des personnes ou entreprises externes de vendre ses produits.",
+      "exemple": "Un conseiller indépendant ou une banque propose les produits d’une compagnie d’assurance. 👉 C’est de la distribution indirecte."
+    },
 
 
