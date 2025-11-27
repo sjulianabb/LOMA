@@ -1,1 +1,95 @@
+{
+  "verbes_exam": [
+    {
+      "fr": "exercer",
+      "es_sencillo": "ejercer / aplicar / mandar",
+      "sinonimos_es": ["imponer", "dirigir", "hacer valer", "supervisar"],
+      "expresion_modelo_fr": "exercer un contrôle important sur...",
+      "expresion_modelo_es": "ejercer un control importante sobre...",
+      "ejemplo_fr": "La compagnie d’assurance exerce un contrôle important sur sa force de vente.",
+      "ejemplo_es": "La aseguradora ejerce un control importante sobre su equipo de ventas."
+    },
+    {
+      "fr": "contrôler",
+      "es_sencillo": "controlar / supervisar",
+      "sinonimos_es": ["vigilar", "hacer seguimiento"],
+      "expresion_modelo_fr": "contrôler la qualité du service",
+      "expresion_modelo_es": "controlar la calidad del servicio",
+      "ejemplo_fr": "Le gestionnaire contrôle les résultats chaque semaine.",
+      "ejemplo_es": "El gerente supervisa los resultados cada semana."
+    },
+    {
+      "fr": "gérer",
+      "es_sencillo": "gestionar / administrar",
+      "sinonimos_es": ["manejar", "llevar"],
+      "expresion_modelo_fr": "gérer une équipe / un budget",
+      "expresion_modelo_es": "gestionar un equipo / un presupuesto",
+      "ejemplo_fr": "Elle gère une équipe de conseillers.",
+      "ejemplo_es": "Ella gestiona un equipo de asesores."
+    },
+    {
+      "fr": "former",
+      "es_sencillo": "formar / capacitar",
+      "sinonimos_es": ["entrenar", "enseñar"],
+      "expresion_modelo_fr": "former les nouveaux conseillers",
+      "expresion_modelo_es": "formar a los nuevos asesores",
+      "ejemplo_fr": "Le gérant de carrière forme les conseillers débutants.",
+      "ejemplo_es": "El gerente de carrera capacita a los asesores principiantes."
+    },
+    {
+      "fr": "obliger / être tenu de",
+      "es_sencillo": "obligar / estar obligado a",
+      "sinonimos_es": ["exigir", "requerir"],
+      "expresion_modelo_fr": "être tenu de respecter les règles",
+      "expresion_modelo_es": "estar obligado a respetar las reglas",
+      "ejemplo_fr": "Les employés sont tenus de suivre la politique.",
+      "ejemplo_es": "Los empleados están obligados a seguir la política."
+    },
+    {
+      "fr": "autoriser",
+      "es_sencillo": "autorizar / permitir",
+      "sinonimos_es": ["dar permiso", "habilitar"],
+      "expresion_modelo_fr": "autoriser l’accès aux dossiers",
+      "expresion_modelo_es": "autorizar el acceso a los expedientes",
+      "ejemplo_fr": "Seul le gestionnaire autorise l’accès.",
+      "ejemplo_es": "Solo el gerente autoriza el acceso."
+    },
+    {
+      "fr": "collaborer",
+      "es_sencillo": "colaborar / trabajar juntos",
+      "sinonimos_es": ["cooperar", "coordinarse"],
+      "expresion_modelo_fr": "collaborer entre services",
+      "expresion_modelo_es": "colaborar entre departamentos",
+      "ejemplo_fr": "Les équipes collaborent pour servir le client.",
+      "ejemplo_es": "Los equipos colaboran para atender al cliente."
+    },
+    {
+      "fr": "partager (des informations)",
+      "es_sencillo": "compartir (información)",
+      "sinonimos_es": ["pasar", "transmitir"],
+      "expresion_modelo_fr": "partager les informations clients",
+      "expresion_modelo_es": "compartir la información de clientes",
+      "ejemplo_fr": "Ils partagent les données avec le service des réclamations.",
+      "ejemplo_es": "Comparten los datos con el servicio de reclamaciones."
+    },
+    {
+      "fr": "communiquer",
+      "es_sencillo": "comunicarse / hablarse",
+      "sinonimos_es": ["avisarse", "coordinar"],
+      "expresion_modelo_fr": "communiquer clairement avec les clients",
+      "expresion_modelo_es": "comunicarse claramente con los clientes",
+      "ejemplo_fr": "L’équipe communique par réunions hebdomadaires.",
+      "ejemplo_es": "El equipo se comunica con reuniones semanales."
+    },
+    {
+      "fr": "externaliser",
+      "es_sencillo": "externalizar / subcontratar",
+      "sinonimos_es": ["delegar fuera", "tercerizar"],
+      "expresion_modelo_fr": "externaliser un service",
+      "expresion_modelo_es": "externalizar un servicio",
+      "ejemplo_fr": "La compagnie externalise une partie du support.",
+      "ejemplo_es": "La compañía subcontrata parte del soporte."
+    }
+  ]
+}
 
