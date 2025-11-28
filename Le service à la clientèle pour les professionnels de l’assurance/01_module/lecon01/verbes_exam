@@ -92,4 +92,78 @@
     }
   ]
 }
+{
+  "glossaire_q5": [
+    {
+      "fr": "RSC (représentant du service à la clientèle)",
+      "es_simple": "agente/asesor de servicio al cliente",
+      "sinonimos_es": ["representante", "agente de atención"]
+    },
+    {
+      "fr": "acheminer (ses appels)",
+      "es_simple": "encaminar / desviar llamadas",
+      "sinonimos_es": ["redirigir", "transferir", "mandar hacia"]
+    },
+    {
+      "fr": "boîte vocale",
+      "es_simple": "buzón de voz",
+      "sinonimos_es": ["contestador", "correo de voz"]
+    },
+    {
+      "fr": "système de réponse vocale interactif (IVR)",
+      "es_simple": "menú automático del teléfono",
+      "sinonimos_es": ["respuesta de voz interactiva", "sistema automático", "robot telefónico"]
+    },
+    {
+      "fr": "numéro de poste",
+      "es_simple": "extensión telefónica",
+      "sinonimos_es": ["anexo", "número interno"]
+    },
+    {
+      "fr": "écart de service",
+      "es_simple": "brecha/falla de servicio (lo prometido ≠ lo recibido)",
+      "sinonimos_es": ["desajuste", "incumplimiento", "diferencia con la expectativa"]
+    },
+    {
+      "fr": "moment de vérité",
+      "es_simple": "momento clave donde el cliente decide si quedó contento o no",
+      "sinonimos_es": ["momento decisivo", "punto crítico", "instante de evaluación"]
+    },
+    {
+      "fr": "raccrocher",
+      "es_simple": "colgar el teléfono",
+      "sinonimos_es": ["cortar la llamada", "terminar la llamada"]
+    },
+    {
+      "fr": "déçue",
+      "es_simple": "decepcionada",
+      "sinonimos_es": ["desilusionada", "insatisfecha"]
+    },
+    {
+      "fr": "laisser un message",
+      "es_simple": "dejar un mensaje",
+      "sinonimos_es": ["grabar un recado", "dejar aviso"]
+    },
+    {
+      "fr": "rappeler",
+      "es_simple": "volver a llamar",
+      "sinonimos_es": ["devolver la llamada", "llamar de regreso"]
+    },
+    {
+      "fr": "se concentrer sur la rédaction d’un rapport",
+      "es_simple": "concentrarse en escribir un informe",
+      "sinonimos_es": ["enfocarse en redactar", "dedicarse a preparar el reporte"]
+    },
+    {
+      "fr": "a été surprise",
+      "es_simple": "se sorprendió",
+      "sinonimos_es": ["le sorprendió", "quedó sorprendida"]
+    }
+  ],
+  "pistas_de_examen": [
+    "Si un cliente esperaba hablar con una PERSONA pero cae en IVR ⇒ ‘écart de service’.",
+    "Si ese hecho cambia su opinión (decepción) ⇒ ‘moment de vérité’.",
+    "‘Acheminer vers la boîte vocale’ = desviar llamadas al buzón de voz."
+  ]
+}
 
