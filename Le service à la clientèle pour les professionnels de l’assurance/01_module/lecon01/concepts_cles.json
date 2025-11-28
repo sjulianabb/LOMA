@@ -523,4 +523,78 @@
       "exemple": "Un conseiller indépendant ou une banque propose les produits d’une compagnie d’assurance. 👉 C’est de la distribution indirecte."
     },
 
+  {
+  "concepts_cles": [
+    {
+      "terme": "RSC (représentant du service à la clientèle)",
+      "definition_simple": "C’est la personne qui aide les clients au téléphone ou par message.",
+      "exemple": "Adam est un RSC : il répond aux clients et règle leurs problèmes."
+    },
+    {
+      "terme": "Acheminer (un appel)",
+      "definition_simple": "C’est envoyer un appel vers un autre endroit.",
+      "exemple": "Adam a acheminé ses appels vers la boîte vocale pour finir un rapport."
+    },
+    {
+      "terme": "Boîte vocale",
+      "definition_simple": "C’est l’endroit où le téléphone garde les messages quand la personne ne répond pas.",
+      "exemple": "La cliente parle après le bip et laisse un message dans la boîte vocale."
+    },
+    {
+      "terme": "IVR (réponse vocale interactive)",
+      "definition_simple": "C’est une machine au téléphone qui te parle et te donne des choix avec des chiffres.",
+      "exemple": "La cliente tombe sur l’IVR et doit choisir 1, 2 ou 3 pour avancer."
+    },
+    {
+      "terme": "Numéro de poste (extension)",
+      "definition_simple": "Petit numéro pour appeler directement une personne dans la compagnie.",
+      "exemple": "Adam a donné son numéro de poste pour que la cliente le joigne sans passer par la machine."
+    },
+    {
+      "terme": "Rappel",
+      "definition_simple": "C’est quand la personne te téléphone plus tard pour te répondre.",
+      "exemple": "La cliente laisse un message et attend le rappel d’Adam."
+    },
+    {
+      "terme": "Déception",
+      "definition_simple": "C’est être triste ou fâché parce que ce que tu voulais n’est pas arrivé.",
+      "exemple": "La cliente est déçue parce qu’elle voulait parler à Adam, mais c’est la machine qui a répondu."
+    },
+    {
+      "terme": "Écart de service",
+      "definition_simple": "Promettre une chose au client et lui donner autre chose (attente ≠ réalité).",
+      "exemple": "On promet de parler à Adam au numéro direct, mais c’est l’IVR qui répond. 👉 Écart de service."
+    },
+    {
+      "terme": "Moment de vérité",
+      "definition_simple": "Instant important où le client décide s’il aime ou non la compagnie, selon ce qui arrive.",
+      "exemple": "Après l’IVR et la boîte vocale, la cliente est déçue. 👉 Ce moment change son opinion : moment de vérité."
+    }
+  ],
+  "mots_cles": [
+    "RSC",
+    "acheminer",
+    "boîte vocale",
+    "IVR",
+    "numéro de poste",
+    "rappel",
+    "déception",
+    "écart de service",
+    "moment de vérité"
+  ],
+  "erreurs_communes": [
+    "Penser que l’IVR est une personne (c’est une machine).",
+    "Croire que le numéro de poste marche toujours même si l’appel est redirigé.",
+    "Confondre n’importe quel appel avec un moment de vérité (ça compte si ça change l’opinion du client).",
+    "Oublier que l’écart de service = promesse/attente non respectée."
+  ],
+  "pistes_exclusion": [
+    "Si une machine répond avec des options → IVR (pas un humain).",
+    "Si tu appelles un numéro direct mais ça va ailleurs → l’appel a été acheminé.",
+    "Promesse ≠ réalité → Écart de service.",
+    "Si ce moment change ce que le client pense de la compagnie → Moment de vérité."
+  ]
+}
+
+
 
