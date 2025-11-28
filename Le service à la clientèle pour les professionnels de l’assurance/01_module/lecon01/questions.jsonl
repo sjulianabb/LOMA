@@ -165,4 +165,14 @@
   "est_correcte": true,
   "justification_breve": "👶 Imagine deux façons de vendre. 1) 🌟 Directe: la compagnie utilise ses propres vendeurs. Elle décide, elle surveille, elle forme = elle contrôle sa force de vente (A). 2) 🚀 Indirecte: ce sont des conseillers indépendants. Ils paient leurs dépenses (bureau, formation, pub, avantages) parce qu’ils ne sont pas employés (B) et ils peuvent choisir avec quelles compagnies travailler, donc pas d’obligation envers une seule (C). 🌈 Résumé: Directe = la compagnie commande. Indirecte = le conseiller est autonome. Voilà pourquoi A, B et C sont vrais."
 }
+{
+  "lecon": "Leçon 1",
+  "lecon_ou_matiere": "Service à la clientèle — Écarts de service et moments de vérité",
+  "indication": "Choisissez l’option correcte (A et B, A uniquement, B uniquement, Ni A ni B).",
+  "question_numero": 17,
+  "question": "Adam Farrell est une RSC (représentant du service à la clientèle) à la Sunflower Insurance Company. Une fois, M. Farrell a acheminé ses appels directement à la boîte vocale pour rédiger un rapport. Quand Larissa Bilson, une cliente, l’a appelé, l’appel a été envoyé au système de réponse vocale (IVR). Mme Bilson a été surprise, car M. Farrell lui avait donné son numéro de poste pour qu’elle le rappelle. Après le système automatisé, elle a laissé un message et a raccroché, déçue d’attendre son rappel. Les affirmations suivantes sont-elles correctes ? A. Il y a eu un écart de service. B. Il y a eu un moment de vérité.",
+  "reponse_etudiant": "A et B",
+  "est_correcte": true,
+  "justification_breve": "👶 A: Le client pensait parler directement avec M. Farrell, mais c’est une machine qui a répondu → on a dit une chose et il est arrivé autre chose (écart de service). 👶 B: Ce moment l’a laissée déçue et a changé ce qu’elle pense de la compagnie (moment de vérité)."
+}
 
