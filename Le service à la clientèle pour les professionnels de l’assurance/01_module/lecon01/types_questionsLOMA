@@ -1,1 +1,26 @@
+{
+  "type_de_question": "MCQ (Multiple Choice Question – pregunta de opción múltiple)",
+  "explicacion_simple_8anos": "La profe te hace una pregunta y te da varias respuestas. Tú SOLO marcas una. Eso es un MCQ.",
+  "variante": {
+    "nombre": "MTF (Multiple-True-False – combinación A/B)",
+    "explicacion_8anos": "Te dan dos frases: A y B. Dices si cada una es VERDAD o MENTIRA. Luego eliges UNA opción que muestre cómo quedaron juntas."
+  },
+  "como_funciona": [
+    "Mira A: ¿es VERDAD o MENTIRA?",
+    "Mira B: ¿es VERDAD o MENTIRA?",
+    "Elige la combinación correcta en UNA sola opción."
+  ],
+  "opciones_combinacion": [
+    "A y B → las dos son VERDAD",
+    "A únicamente → solo A es VERDAD",
+    "B únicamente → solo B es VERDAD",
+    "Ni A ni B → las dos son MENTIRA"
+  ],
+  "mini_ejemplo": {
+    "A": "La manzana es una fruta. (VERDAD)",
+    "B": "El perro es una fruta. (MENTIRA)",
+    "respuesta_correcta": "A únicamente"
+  },
+  "metafora": "Como dos semáforos: verde-verde (✔✔), verde-rojo (✔✖), rojo-verde (✖✔), rojo-rojo (✖✖)."
+}
 
